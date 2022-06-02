@@ -1,4 +1,4 @@
-**QMUL _ Datamining**
+# QMUL _ Datamining
 
 The projects implemented in this repository are in line with the module ECS766P-Dataming of QMUL.
 
