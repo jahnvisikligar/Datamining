@@ -11,5 +11,3 @@ Following topics have been covered:
 - Outlier Detection
 - Web Mining
 - Data Mining Applications
-
-
